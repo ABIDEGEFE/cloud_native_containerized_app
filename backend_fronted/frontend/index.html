@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Image Gallery</h1>
+        
+        <div class="upload-form">
+            <h2>Upload New Item</h2>
+            <form id="uploadForm">
+                <input type="text" id="name" placeholder="Item name" required>
+                <input type="number" id="price" placeholder="Price" step="0.01" required>
+                <input type="file" id="image" accept="image/*" required>
+                <button type="submit">Upload</button>
+            </form>
+        </div>
+        
+        <div class="gallery" id="gallery"></div>
+    </div>
+    
+    <script src="/static/script.js"></script>
+</body>
+</html>
