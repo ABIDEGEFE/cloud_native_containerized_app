@@ -82,6 +82,6 @@ For feedback, contributions, or questions, feel free to reach out to me!
 
 ---email: agonaferdegefe@gmail.com
 
-```LinkedIn: https://www.linkedin.com/in/abenet-degefe-207769319/
+[LinkedIn](https://www.linkedin.com/in/abenet-degefe-207769319/)
 
 ```
